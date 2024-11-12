@@ -1,0 +1,67 @@
+eumW7:
+  comment:
+    user:
+      mail: ekaterina.pavlova@ics-it.ru
+      name: Екатерина Павлова
+    dateTime: '2024-09-23T07:37:26.334Z'
+    content: Может “Вход для бизнеса”? Так короче и понятнее
+  answers: []
+YvKWF:
+  comment:
+    user:
+      mail: ekaterina.pavlova@ics-it.ru
+      name: Екатерина Павлова
+    dateTime: '2024-09-23T07:38:21.466Z'
+    content: >-
+      Лучше окно называть как кнопку. А действия в окне -- глаголом. Потому
+      предлагаю “Вход в корпоративный аккаунт…”.
+  answers:
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-09-23T09:42:00.082Z'
+      content: |-
+        У нас в хэдере “вход” и тут “вход”.
+
+        Выглядит не очень.
+2yTdh:
+  comment:
+    user:
+      mail: ekaterina.pavlova@ics-it.ru
+      name: Екатерина Павлова
+    dateTime: '2024-09-23T07:39:36.552Z'
+    content: 'Нужно же еще название для инпута. Например: Почта'
+  answers:
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-09-23T09:42:27.082Z'
+      content: Плейсхолдера достаточно будет. Название для этого поля избыточно.
+9UEeN:
+  comment:
+    user:
+      mail: ekaterina.pavlova@ics-it.ru
+      name: Екатерина Павлова
+    dateTime: '2024-09-23T07:39:12.267Z'
+    content: >-
+      По стандарту у нас плейсхолдер с данными. Тут будет правильно:
+      ivanivanov@company.ru
+  answers:
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-09-23T09:43:11.298Z'
+      content: А откуда у нас такой стандарт? Почему именно такой?
+d73zr:
+  comment:
+    user:
+      mail: ekaterina.pavlova@ics-it.ru
+      name: Екатерина Павлова
+    dateTime: '2024-09-23T07:40:51.484Z'
+    content: А почему не Ok?
+  answers:
+    - user:
+        mail: stanislav.yargunkin@ics-it.ru
+        name: Stanislav Yargunkin
+      dateTime: '2024-09-23T08:21:32.561Z'
+      content: Там у нас по стандарту Okay

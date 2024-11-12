@@ -1,0 +1,13 @@
+'1':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-04-27T08:52:02.157Z'
+    content: "Меня запутали 11 неопубликованных изменений скорее всего. Сейчас протестил всё ещё раз, работает без ошибок, не пугает.\n\nТо, что нетехническому пользователю непонятен перенос изменений из ветку в ветку –\_проблема, будем решать отдельно."
+  answers:
+    - user:
+        mail: stanislav.yargunkin@ics-it.ru
+        name: Stanislav Yargynkin
+      dateTime: '2024-04-27T14:05:56.875Z'
+      content: C юс что делаем? Оставляем пока?

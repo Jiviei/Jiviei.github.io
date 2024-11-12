@@ -1,0 +1,18 @@
+'2':
+  comment:
+    user:
+      mail: andrey.lastochkin@ics-it.ru
+      name: Andrey Lastochkin
+    dateTime: '2024-05-17T05:00:02.844Z'
+    content: >-
+      К заголовку комментарий нельзя оставить. Часы - это не сроки, это
+      трудоемкость. Сроки - это дата, к которой что-то должно быть сделано. 
+  answers: []
+'3':
+  comment:
+    user:
+      mail: stanislav.yargunkin@ics-it.ru
+      name: Stanislav Yargynkin
+    dateTime: '2024-05-20T13:42:31.939Z'
+    content: скобки emty-text
+  answers: []

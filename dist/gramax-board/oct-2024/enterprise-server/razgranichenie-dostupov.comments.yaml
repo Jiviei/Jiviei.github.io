@@ -1,0 +1,59 @@
+eXxoB:
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-09-22T19:46:40.348Z'
+    content: >-
+      Можно разложить на редактирование и комментирование, если легко сделать.
+      Т.к. Х5 хотели, чтобы Ревьюеры только комментировали. Но когда любое
+      изменение можно просмотреть и откатить это ограничение как-будто теряет
+      смысл.
+  answers: []
+5bG1b:
+  comment:
+    user:
+      mail: ekaterina.pavlova@ics-it.ru
+      name: Екатерина Павлова
+    dateTime: '2024-09-23T13:44:16.941Z'
+    content: >-
+      Очень опасно. Если на каталог был доступ у одной группы, после ее удаления
+      что произойдет? Станет доступен всем? Никому не будет доступен?
+  answers: []
+1JsRq:
+  comment:
+    user:
+      mail: ekaterina.pavlova@ics-it.ru
+      name: Екатерина Павлова
+    dateTime: '2024-09-23T13:45:06.956Z'
+    content: >-
+      Как это будет соотноситься с юзерами в гитлабе? Если у меня ревьюер не
+      использует гитлаб и у него нет там аккаунта? Под какими данными будет
+      коммитить комменты?
+  answers: []
+KwFoI:
+  comment:
+    user:
+      mail: ekaterina.pavlova@ics-it.ru
+      name: Екатерина Павлова
+    dateTime: '2024-09-23T13:45:19.553Z'
+    content: Отдельное приложение для админа?
+  answers: []
+LsNTn:
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-09-24T19:08:17.994Z'
+    content: >-
+      Пользователь, получивший ссылку на каталог, и прошедший аутентификацию в
+      SSO.
+  answers: []
+6UvAw:
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-09-22T20:12:47.219Z'
+    content: 'Базовые свойства + доступ: Владелец каталога, Редакторы, Читатели.'
+  answers: []
