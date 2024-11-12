@@ -1,0 +1,29 @@
+'2':
+  comment:
+    user:
+      mail: sergey.fedorashko@ics-it.ru
+      name: Sergey Fedorashko (ICS)
+    dateTime: '2024-03-06T13:56:08.728Z'
+    content: >-
+      Действительно, что? Надо определить новый текст, Андрею на приемке
+      выпадающего меню с фильтром - не понравился текст, текст нужно поменять.
+  answers: []
+'3':
+  comment:
+    user:
+      mail: sergey.fedorashko@ics-it.ru
+      name: Sergey Fedorashko (ICS)
+    dateTime: '2024-03-06T14:12:00.985Z'
+    content: |-
+      В
+
+      опрос в пункте с фильтрацией.
+  answers: []
+'4':
+  comment:
+    user:
+      mail: sergey.fedorashko@ics-it.ru
+      name: Sergey Fedorashko (ICS)
+    dateTime: '2024-03-06T14:55:01.545Z'
+    content: ХОЧУ КНОПКУ УДАЛЕНИЯ ФОРМАТИРОВНИЯ
+  answers: []
