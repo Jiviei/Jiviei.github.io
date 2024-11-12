@@ -1,0 +1,16 @@
+'1':
+  comment:
+    user:
+      mail: sergey.fedorashko@ics-it.ru
+      name: Sergey Fedorashko (ICS)
+    dateTime: '2023-11-30T08:30:21.383Z'
+    content: '11010100110101'
+  answers: []
+'2':
+  comment:
+    user:
+      mail: sergey.fedorashko@ics-it.ru
+      name: Sergey Fedorashko (ICS)
+    dateTime: '2023-11-30T08:30:48.294Z'
+    content: '1010010100101010011001'
+  answers: []
