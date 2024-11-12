@@ -60,7 +60,8 @@ export async function deploySite(directory) {
             shell.exec(`git clone --depth 1 ${deploymentRepoURL} "${targetPath}"`);
             shell.exec(`git checkout -b ${deploymentBranch}`);
         }
-        shell.exec(`git rm -rf`);
+        shell.exec(`git rm -rf .`);
+        await fs.writeFile(path.join(targetPath, ".nojekyll"), "", "utf8");
         await fs.copy(directory, targetPath);
         shell.exec("git add --all");
         const gitUserName = process.env.GIT_USER_NAME;
