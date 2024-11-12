@@ -1,0 +1,22 @@
+'1':
+  comment:
+    user:
+      mail: pavel.smirnov@ics-it.ru
+      name: Pavel Smirnov
+    dateTime: '2024-05-03T09:42:25.052Z'
+    content: >-
+      Нужно ли это на винде?
+
+
+      Сейчас уведомление “Saving file“ есть только макоси и на линуксе, а на
+      винде всё родное.
+
+
+      Edge хорошо обрабатывает сохранение файла, прям как в браузере. Это на
+      макоси/линуксе никаких уведомлений нет.
+  answers:
+    - user:
+        mail: stanislav.yargunkin@ics-it.ru
+        name: Stanislav Yargynkin
+      dateTime: '2024-05-03T12:58:30.621Z'
+      content: Везде одинаково

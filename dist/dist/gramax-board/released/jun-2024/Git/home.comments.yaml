@@ -1,0 +1,21 @@
+'1':
+  comment:
+    user:
+      mail: stanislav.yargunkin@ics-it.ru
+      name: Stanislav Yargynkin
+    dateTime: '2024-06-06T10:25:51.452Z'
+    content: Нужны ли пояснения тултипом того, что означают эти циферки
+  answers:
+    - user:
+        mail: pavel.smirnov@ics-it.ru
+        name: Pavel Smirnov
+      dateTime: '2024-06-06T10:29:22.812Z'
+      content: Зачем, если до этого не было?
+    - user:
+        mail: stanislav.yargunkin@ics-it.ru
+        name: Stanislav Yargynkin
+      dateTime: '2024-06-06T10:34:26.299Z'
+      content: >-
+        Ну потому что логика этих циферок поменяется же. До этого мне было
+        очевидно, что это коммиты, т.к. в вс коде также. А тут не понятно что
+        это за циферки, если это не коммиты

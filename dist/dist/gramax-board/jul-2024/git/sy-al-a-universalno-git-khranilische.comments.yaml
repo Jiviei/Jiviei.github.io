@@ -1,0 +1,42 @@
+9JU2I:
+  comment:
+    user:
+      mail: ekaterina.pavlova@ics-it.ru
+      name: Екатерина Павлова
+    dateTime: '2024-07-24T06:52:20.311Z'
+    content: >-
+      Как это решается в обычном гите, когда создаю локально реп?
+
+
+      Нельзя ограничивать возможности для юзеров из-за типа хранилища. Нужно
+      придумать, как это обойти.
+  answers:
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: Екатерина Павлова
+      dateTime: '2024-07-24T06:54:11.849Z'
+      content: >-
+        Если это второй этап -- ок. Но обязательно, чтобы это работало как и с
+        гитхабом и гитлабом
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: Екатерина Павлова
+      dateTime: '2024-07-24T09:36:12.478Z'
+      content: Тест
+H9pHX:
+  comment:
+    user:
+      mail: ekaterina.pavlova@ics-it.ru
+      name: Екатерина Павлова
+    dateTime: '2024-07-24T06:53:07.148Z'
+    content: >-
+      А почему не SSH или HTTPS-ключ для клонирования? Вс код и прочие по ним
+      клонят.
+  answers:
+    - user:
+        mail: stanislav.yargunkin@ics-it.ru
+        name: Stanislav Yargynkin
+      dateTime: '2024-07-24T06:57:09.895Z'
+      content: >-
+        Эта ошибка значит, что  https://github.com/group-name/rep-name.git  --
+        мы можем, а http://github.com/group-name/rep-name.git -- не можем пока

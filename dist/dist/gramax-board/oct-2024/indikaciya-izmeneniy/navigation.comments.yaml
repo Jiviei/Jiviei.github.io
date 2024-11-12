@@ -1,0 +1,110 @@
+'1':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-01-28T13:34:27.191Z'
+    content: >-
+      Непонятно когда исчезает. Я должен мочь зайти в статью, увидеть контент
+      удаляемый, а после выхода из статьи она пропадает.
+  answers:
+    - user:
+        mail: pavel.smirnov@ics-it.ru
+        name: Pavel Smirnov
+      dateTime: '2024-07-04T08:11:33.757Z'
+      content: >-
+        Тоже на отдельную ЮС тянет, чтоб при заходе в обновлённую статью дифф
+        показывался
+'2':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-01-28T13:35:27.087Z'
+    content: >-
+      Будет ли возможность посмотреть ещё раз глянуть изменения, если забыл что
+      чел поменял?
+  answers:
+    - user:
+        mail: pavel.smirnov@ics-it.ru
+        name: Pavel Smirnov
+      dateTime: '2024-07-04T08:10:56.322Z'
+      content: Как это в UI отображать?
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-08-04T19:44:48.421Z'
+      content: Давай пока без этого. Через сравнение версий потом лучше это сделать.
+'3':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-03-16T15:11:56.151Z'
+    content: >-
+      Как идея, при наведении на счётчик изменений хайлатить узлы, которые
+      поменяются. Чтобы получить превью, менял кто-то мои статьи или нет.
+  answers:
+    - user:
+        mail: pavel.smirnov@ics-it.ru
+        name: Pavel Smirnov
+      dateTime: '2024-07-04T07:40:18.938Z'
+      content: Это тянет на отдельную ЮС
+xhhUn:
+  comment:
+    user:
+      mail: pavel.smirnov@ics-it.ru
+      name: Pavel Smirnov
+    dateTime: '2024-07-05T07:47:26.048Z'
+    content: |-
+      1. Если картинка будет обновлена? Все статьи, где картинка используется?
+
+      2. Если будет обновлён сниппет?
+
+      3. Как должны комменты отображаться?
+  answers:
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-08-04T19:49:09.645Z'
+      content: >-
+        Видимо да. Надо только в Андреем обсудить сниппет, который в футере
+        хотели чтобы  располагался. Вот его нет смысла подсвечивать и как его
+        подсвечивать непонятно.
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-08-04T19:53:24.877Z'
+      content: |-
+        Комментарии может так:
+
+        -  \+1. Добавили первый коммент.
+
+        -  1+n. Добавили новый коммент.
+
+        -  Галочка или другой символ. Зарезолвили все комментарии.
+
+        -  n-m. Зарезолвили m комментариев из n?
+    - user:
+        mail: danil.kazanov@ics-it.ru
+        name: Danil Kazanov (ICS)
+      dateTime: '2024-09-16T14:34:36.808Z'
+      content: >-
+        У нас сейчас нельзя зарезолвить коммент, только удалить. Это типо и
+        считается резолвом
+uaf2g:
+  comment:
+    user:
+      mail: danil.kazanov@ics-it.ru
+      name: Danil Kazanov (ICS)
+    dateTime: '2024-09-16T14:52:53.798Z'
+    content: >-
+      Не запутает пользователя? Как будто я нахожусь в ветке master, читаю
+      непрочитанные статьи, потом меняю ветку на develop (автоматически
+      происходит ещё и синхронизации) и у меня уже какие-то новые изменения.
+      Хотя я руками синхронизацию не нажимал, а сменил ветку.
+
+
+      Что думаете насчёт того, чтобы при смене ветки показывать изменения между
+      ветками? Или лишнее?
+  answers: []

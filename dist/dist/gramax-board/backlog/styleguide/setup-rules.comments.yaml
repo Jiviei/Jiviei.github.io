@@ -1,0 +1,24 @@
+'1':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-03-08T13:31:43.089Z'
+    content: Что за конструкция pleasespellme в LT и что за цифры в ней?
+  answers: []
+'2':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-03-08T13:32:11.954Z'
+    content: Можем ли в стандартных проверках редактировать свойства, а код – нет?
+  answers: []
+'3':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-03-08T18:07:02.460Z'
+    content: Альтернативный вариант -- сделать в поиске тэг “Включены в каталоге”.
+  answers: []

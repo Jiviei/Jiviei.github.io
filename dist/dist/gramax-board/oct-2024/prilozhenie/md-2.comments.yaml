@@ -1,0 +1,11 @@
+xqRcV:
+  comment:
+    user:
+      mail: danil.kazanov@ics-it.ru
+      name: Danil Kazanov (ICS)
+    dateTime: '2024-07-29T13:35:55.171Z'
+    content: >-
+      Вообще, в monaco можно даже запоминать и восстанавливать позицию курсора и
+      ставить фокус на какую-то строчку. Можно полностью восстанавливать view
+      после перезагрузки.
+  answers: []

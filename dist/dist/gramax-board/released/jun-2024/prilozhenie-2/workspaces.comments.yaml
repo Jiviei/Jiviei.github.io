@@ -1,0 +1,18 @@
+'6':
+  comment:
+    user:
+      mail: stanislav.yargunkin@ics-it.ru
+      name: Stanislav Yargynkin
+    dateTime: '2024-06-10T14:11:25.398Z'
+    content: Тяжело думаю будет это Олесе протестить, но можно думаю оставить.
+  answers:
+    - user:
+        mail: pavel.smirnov@ics-it.ru
+        name: Pavel Smirnov
+      dateTime: '2024-06-10T14:27:49.627Z'
+      content: |-
+        1. Перешёл в новый воркспейт
+
+        2. Вернулся
+
+        3. Крутилка у каталогов снова крутится при загрузке

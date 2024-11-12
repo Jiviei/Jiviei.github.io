@@ -1,0 +1,29 @@
+'1':
+  comment:
+    user:
+      mail: egor.zaidov@ics-it.ru
+      name: Egor Zaidov (ics-it)
+    dateTime: '2024-05-29T13:55:47.520Z'
+    content: >-
+      Не перенеслись доска и файл, помимо страниц переносятся только доски, и
+      только в случае, если в них вложены другие страницы
+  answers: []
+'2':
+  comment:
+    user:
+      mail: egor.zaidov@ics-it.ru
+      name: Egor Zaidov (ics-it)
+    dateTime: '2024-05-29T13:58:54.878Z'
+    content: Нет, просто основная страница раздела тоже называется Тест
+  answers: []
+'3':
+  comment:
+    user:
+      mail: egor.zaidov@ics-it.ru
+      name: Egor Zaidov (ics-it)
+    dateTime: '2024-05-29T14:16:45.117Z'
+    content: |-
+      Ссылка ведёт на основную страницу раздела.
+
+      Проблема в ссылке, но в конечной версии не будет таких ссылок.
+  answers: []

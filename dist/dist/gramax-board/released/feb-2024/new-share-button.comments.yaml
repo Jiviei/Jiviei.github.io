@@ -1,0 +1,24 @@
+'1':
+  comment:
+    user:
+      mail: andrey.lastochkin@ics-it.ru
+      name: Andrey Lastochkin
+    dateTime: '2024-02-01T06:26:00.804Z'
+    content: Замечания
+  answers: []
+'2':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-15T19:37:12.787Z'
+    content: >-
+      Зачем нам целое модальное окно на весь экран?
+
+
+      Зачем показывать юзеру ссылку? В этом нет смысла.
+
+
+      Справочную информацию можно отобразить в окне, которое автоматически
+      пропадёт через 5 секунд или после клика.
+  answers: []

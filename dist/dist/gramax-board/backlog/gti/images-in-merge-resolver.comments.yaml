@@ -1,0 +1,22 @@
+'1':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-05-27T17:34:36.539Z'
+    content: В Монако будут работать?
+  answers:
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: Екатерина Павлова
+      dateTime: '2024-06-03T09:13:01.596Z'
+      content: >-
+        Нет, и не должны. Там же путь отображается, как в стандартном
+        маркдаун-файле
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-06-03T09:21:53.225Z'
+      content: >-
+        Так у нас окно решения конфликтов будет из вскода в ближайшее время. И
+        эта ЮС будет не нужна.
