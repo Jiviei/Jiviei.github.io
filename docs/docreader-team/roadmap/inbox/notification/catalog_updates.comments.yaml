@@ -1,0 +1,19 @@
+'5':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-07-02T11:35:52.369Z'
+    content: Надо идти от индикатора на иконке приложения в ОС.
+  answers: []
+'9':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-07-02T11:34:48.635Z'
+    content: >-
+      Почему не можем просто периодически запрашивать с публичного облачного
+      хранилища изменения из репозитория, скачивать их, а потом обрабатывать в
+      виде индикаторов и перечня входящих изменений?
+  answers: []

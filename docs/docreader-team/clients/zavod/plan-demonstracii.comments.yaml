@@ -1,0 +1,53 @@
+YHtqa:
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-07-03T13:12:35.700Z'
+    content: Есть веб, есть десктоп. Чем удобен декстоп?
+  answers:
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: Екатерина Павлова
+      dateTime: '2024-07-04T06:48:35.454Z'
+      content: Тут я даю вводную инфу. Про отличия приложений можно в конце сказать
+Q7Gnc:
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-07-03T13:16:56.741Z'
+    content: >-
+      Показать широкие таблицы. И сказать, что в последнем обновлении мы их
+      сильно улучшили.
+  answers: []
+hELXQ:
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-07-03T13:18:28.609Z'
+    content: Про единый источник можно ещё сказать.
+  answers:
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-07-03T13:19:50.729Z'
+      content: "И на любые вопросы про низкоуровневость стоит с уверенным лицом говорить: мы делаем продукт для ИТ-команд, поэтому сдесь есть специфика инженерная. Но наша задача –\_перенести лучшие иженерные практики в работу аналитиков, техписов и менеджеров. И мы с каждым релизом уменьшаем количество непонятных для нетехнических людей моментов."
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: Екатерина Павлова
+      dateTime: '2024-07-04T06:49:46.574Z'
+      content: >-
+        Про сниппеты добавила. Про второе -- не думаю, что такое спросят. Но
+        если спросят -- скажу.
+kxdd7:
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-07-03T13:16:28.357Z'
+    content: >-
+      У них нет BPMN вроде. draw.io
+      https://app.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fbpmn-2-example.drawio%23%7B%22pageId%22%3A%22HCq9DOm8jIu3lRLJQ98l%22%7D
+  answers: []

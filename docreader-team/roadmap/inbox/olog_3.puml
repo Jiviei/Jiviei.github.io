@@ -1,0 +1,5 @@
+@startuml
+!define RECTANGLE class
+
+RECTANGLE "Английский завтрак" {
+}

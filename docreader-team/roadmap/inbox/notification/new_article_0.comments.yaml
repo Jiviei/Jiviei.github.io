@@ -1,0 +1,116 @@
+'3':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-08-24T10:04:26.916Z'
+    content: >-
+      Для дележа ссылкой нужен отдельный юзкейс и описание логики работы, как
+      мне кажется.
+
+
+      Неочевидно и неудобно, когда тебе скинули ссылку на контент, тебе надо ещё
+      и что-то там синхронизировать вручную.
+  answers:
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: ekaterina.pavlova@ics-it.ru
+      dateTime: '2023-08-24T12:42:56.434Z'
+      content: >-
+        Да, тут работа по ссылке не рассматривалась. Ее отдельно нужно
+        продумывать
+'5':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-08-24T10:12:20.514Z'
+    content: >-
+      Может нам в контекстное меню каталога сразу добавить опцию “Отметить всё
+      как просмотренное”? Опция будет доступна только тогда, когда есть хотя бы
+      одна не просмотренное изменение в каталоге.
+  answers:
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: ekaterina.pavlova@ics-it.ru
+      dateTime: '2023-08-24T12:44:49.647Z'
+      content: Это можно как следующий этап
+'6':
+  comment:
+    user:
+      mail: andrey.lastochkin@ics-it.ru
+      name: andrey.lastochkin@ics-it.ru
+    dateTime: '2023-08-28T08:55:14.421Z'
+    content: >-
+      Это можно не писать. Счетчик должен всегда отображать актуалную инфу. Если
+      мы реально обновились до последнего коммита то понятно что там должно быть
+      0
+  answers: []
+'9':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-08-24T10:02:19.149Z'
+    content: >-
+      Тут надо бы сразу подумать, что будет внутри добавленной статьи? Мы же не
+      будем там всё в зелёной заливке показывать, как это обычно делают.
+
+
+      Значит, возможно, стоит визуально иконкой отделить добавленные от
+      изменённых. Чтобы заходя в добавленную ты видел просто текст, как обычно.
+  answers:
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: ekaterina.pavlova@ics-it.ru
+      dateTime: '2023-08-24T12:45:57.469Z'
+      content: >-
+        Да, просто сейчас в цветовом кодировании у нас есть только зеленый и
+        красный. Потому добавление и изменение зеленые.\
+
+        \
+
+        Можно будет отдельно подумать, стоит ли как-то отмечать именно
+        изменение.
+    - user:
+        mail: andrey.lastochkin@ics-it.ru
+        name: andrey.lastochkin@ics-it.ru
+      dateTime: '2023-08-28T08:56:09.493Z'
+      content: >-
+        Думаю лучше его выводить не слева, а справа. Иначе на нулевом уровне
+        понятно куда его девать, плюс еще обычно выводят после
+'10':
+  comment:
+    user:
+      mail: andrey.lastochkin@ics-it.ru
+      name: andrey.lastochkin@ics-it.ru
+    dateTime: '2023-08-28T08:56:32.173Z'
+    content: Давай лучше желтый или синий
+  answers: []
+'11':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-08-24T10:05:13.097Z'
+    content: Переименование статьи у нас сейчас попрежнему через удаление работает?
+  answers:
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: ekaterina.pavlova@ics-it.ru
+      dateTime: '2023-08-24T12:46:40.801Z'
+      content: >-
+        Нет, доработали. Если изменился путь и меньше 50% контента - покажет,
+        что изменился путь. Если изменился и больше 50% контента - покажет
+        удаление и добавление нового файла.
+    - user:
+        mail: andrey.lastochkin@ics-it.ru
+        name: andrey.lastochkin@ics-it.ru
+      dateTime: '2023-08-28T08:57:08.609Z'
+      content: >-
+        Скорее всего сложно будет сделать историю с красным значком. Но давай
+        узнаем что ребята скажут
+
+
+        И еще отображается серым, как будто задизейблено, непонятно что можно
+        кликать.

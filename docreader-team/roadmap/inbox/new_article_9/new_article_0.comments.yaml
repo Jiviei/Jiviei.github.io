@@ -1,0 +1,42 @@
+'10':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-07-26T11:30:43.830Z'
+    content: Не склонируется, пока не авторизуется
+  answers: []
+'11':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-07-26T11:24:17.932Z'
+    content: Вроде договорились без этого пока сделать.
+  answers: []
+'12':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-07-26T11:59:04.987Z'
+    content: >-
+      А окно добавления хранилища у него будет? Если да, то туда лучше и
+      добавить имя с почтой.
+  answers: []
+'15':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-07-26T12:01:48.715Z'
+    content: Это в браузере или приложении? А в мобиле как?
+  answers: []
+'16':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    dateTime: '2023-07-26T12:02:07.665Z'
+    content: А имя он тогда зачем он показывал?
+  answers: []

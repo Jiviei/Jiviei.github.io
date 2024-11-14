@@ -1,0 +1,24 @@
+'1':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-14T10:09:33.718Z'
+    content: Это не очень. Как бы так показать, что у нас счётчик изменений есть.
+  answers: []
+'2':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-14T10:09:58.231Z'
+    content: Как поймут, что это не app.gram.ax?
+  answers: []
+'3':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-14T10:10:15.900Z'
+    content: Таблицы бы ещё показать.
+  answers: []

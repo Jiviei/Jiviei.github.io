@@ -1,0 +1,288 @@
+'1':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T08:57:09.852Z'
+    content: >-
+      сущностей думаю не очень уместно. И лучше переписать, на мой взгляд. Чуть
+      больше сложности раскрыть. Или написать, что об этом напишем ниже.
+  answers: []
+'2':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T08:57:41.886Z'
+    content: |-
+      А почему не за день?
+
+      Лучше за день.
+  answers: []
+'3':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:36:30.113Z'
+    content: >-
+      Думаю это в статье для новичков лучше не писать. А то сложно это. Ни у
+      кого реально с кодом это не лежит и не версионируется.
+  answers: []
+'4':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:37:31.634Z'
+    content: >-
+      Не могу оставить комментарий на ссылку, это очень неудобно.
+
+
+
+
+      Писать “подробнее” и отправлять неизвестно куда – не очень. Лучше написать
+      “подробнее на нашем сайте” и без задумчивых многоточий.
+  answers:
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-02-05T10:37:46.970Z'
+      content: Я вообще сначала подумал, что это катблок.
+'5':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:42:15.349Z'
+    content: >-
+      Сначала работа настраивается, а потом портал разворачивается. Да и портал
+      выбрать надо первым делом, чтобы работу настроить. Об этом ничего не
+      сказано, но это же важно.
+  answers: []
+'6':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:43:11.225Z'
+    content: А если есть свой сервер? А GitHub pages?
+  answers: []
+'7':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:43:47.247Z'
+    content: Зачем и где это требуется? На сервере?
+  answers: []
+'8':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:45:05.564Z'
+    content: >-
+      Ну так тут сразу лучше написать, что нужен разработчик. Мне кажется эти
+      пункты больше из нашего единичного опыта написаны, нежели с оглядкой на
+      общий опыт.
+  answers: []
+'9':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:46:09.250Z'
+    content: Не очень понял этот раздел и термин “базовый”, прочитав даже раздел ниже.
+  answers: []
+'10':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:48:26.522Z'
+    content: >-
+      Вообще непонятно о чём тут речь. Подозреваю, что большой вклад вносит
+      термин “проект”, который в пункте обозначает и проект, и репозиторий.
+  answers: []
+'11':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:49:02.226Z'
+    content: >-
+      Ну а где это реально одна команда?
+
+
+      Дать бы пруф в виде ссылке, что там сделать надо. Без такого факт чекинга
+      больше похоже на рекламную статью. Она рекламная, конечно, но лучше нам
+      подтвердить экспертизой.
+  answers: []
+'12':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:51:52.108Z'
+    content: >-
+      Статья начинается с “для всех кто начинает”. Т.е. человек с минимальным
+      опытом это читает и мы его грузим терминами. Я понимаю, что нам это на
+      руку. Но думаю надо давать ссылки какие-то, что-то пояснять.
+
+
+      “тот, кто начинает”, просто вырубится от обилия терминов на середине
+      статьи и до Грамакса не дочитает.
+  answers: []
+'13':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:52:42.320Z'
+    content: Зачем? Есть примеры? Все ли SSG на node.js?
+  answers: []
+'14':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:53:48.327Z'
+    content: >-
+      Обычные сотрудники это кто? Менеджер по продажам не будет, техписы сейчас
+      якобы должны писать.
+  answers: []
+'15':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:54:26.310Z'
+    content: >-
+      Во все IDE включён Git-клиент. А вот сам Git, надо понять как правильно он
+      называется, по-моему не включён.
+  answers: []
+'16':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:55:11.891Z'
+    content: >-
+      Примеры. Я вот читаю и понимаю, что это пункт просто нерелевантен. Есть
+      такие модули для Hugo, а для Gatsby, Sphinx?
+  answers: []
+'17':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:57:19.944Z'
+    content: Ну а node.js мы не для локального инстанса ставили?
+  answers: []
+'18':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:58:23.087Z'
+    content: "А где внедряли? –\_нигде.\n\nЛучше не писать такое. Просто заявить, что сколько-то дней. Непонятно почему 3 только."
+  answers: []
+'19':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T10:59:58.243Z'
+    content: >-
+      Какие? Здесь ссылка должна быть на документацию. А в идеале написать, что
+      это очень просто для знакомых с докером, что у нас документация занимает
+      пол странички.
+  answers: []
+'20':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T11:49:30.716Z'
+    content: веб-хуки и до этого не надо было настраивать, судя по нашей статье
+  answers: []
+'21':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T11:50:43.180Z'
+    content: Для читателей портал, а для редакторов что?
+  answers: []
+'22':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T11:51:15.480Z'
+    content: Предлагаю ссылку дать
+  answers: []
+'23':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T11:54:08.016Z'
+    content: >-
+      Звучит удручающе. Просто: подключите в грамаксе хранилище. Скриншот ещё
+      можно добавить, скриншотов не хватает по всей статье.
+  answers: []
+'24':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T11:55:11.004Z'
+    content: >-
+      Такой кнопки в интерфейсе же у нас нет. Лучше написать обтекаемо или не
+      перечислять.
+  answers: []
+'25':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T11:55:53.551Z'
+    content: 2 раза говорили, не много, в целом.
+  answers: []
+'26':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T11:56:10.274Z'
+    content: А докер кто развернёт?
+  answers: []
+'27':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T11:57:00.105Z'
+    content: >-
+      Ну такое. Думаю переписать бы это. Может в человекочасах сравнить. Сейчас
+      выглядит так, что и там, и там нужно разрабов привлекать. И выгода
+      непонятна.
+  answers: []
+'28':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T11:58:05.358Z'
+    content: "Изучить Git немного придётся. А вот макрдаун, работу с консолью, многообразие всяких IDE –\_нет."
+  answers: []
+'29':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-05T11:58:33.321Z'
+    content: Выглядит слишком долго. Публикацию можно делать сразу же по сути.
+  answers: []

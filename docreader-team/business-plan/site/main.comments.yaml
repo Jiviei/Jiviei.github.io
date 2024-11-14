@@ -1,0 +1,14 @@
+'16':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: alexander.machulin@ics-it.ru
+    content: Ссылка на энтерпрайз
+  answers:
+    - user:
+        mail: andrey.lastochkin@ics-it.ru
+        name: andrey.lastochkin@ics-it.ru
+      dateTime: '2023-10-24T06:09:00.905Z'
+      content: >-
+        Давай может иконку хотя бы добавим типа enterprise, чтобы понятно было
+        что это отдельная редакция
