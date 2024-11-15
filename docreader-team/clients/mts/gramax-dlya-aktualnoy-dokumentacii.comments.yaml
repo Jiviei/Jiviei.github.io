@@ -1,0 +1,66 @@
+'1':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-04-24T19:20:22.110Z'
+    content: >-
+      Может вставить ниже переписку где ещё он начал?
+
+
+      Я потому что специально вчера время в переписке чекнул. Там хоть и 5 часов
+      ушло, но думаю понятно всем будет, что это не сплошняком он сидел.
+  answers:
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: Екатерина Павлова
+      dateTime: '2024-04-27T07:25:56.804Z'
+      content: я бы во время на презе не стала вчитываться
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-04-27T10:05:38.765Z'
+      content: |-
+        Ну а кто вчитается, тот увидит и офигеет.
+
+        Тем более квадратные картинки на презе лучше, чем прямоугольные.
+'2':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-04-24T19:23:17.294Z'
+    content: >-
+      Скриншот бы более осмысленный. Мы тогда для х5 курьеров делали каталог.
+      Может его?
+  answers:
+    - user:
+        mail: ekaterina.pavlova@ics-it.ru
+        name: Екатерина Павлова
+      dateTime: '2024-04-27T08:18:01.522Z'
+      content: Взяла каталог СО+
+'4':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-04-24T19:27:15.842Z'
+    content: >-
+      На скрине оставь комментарий к куску текста. Скрины тоже лучше из
+      красивого каталога.
+  answers:
+    - user:
+        mail: alexander.machulin@ics-it.ru
+        name: Alexander Machulin
+      dateTime: '2024-04-27T10:07:00.120Z'
+      content: Комментарий опять ко всей строчке, а не к куску текста.
+'7':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-04-24T19:56:01.105Z'
+    content: >-
+      Про портал для читателей стоит отдельный слайд и что он у нас собственный.
+      Про него часто спрашивают.
+  answers: []
